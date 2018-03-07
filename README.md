@@ -1,2 +1,2 @@
 # First-steps-in-GitHub
-First step
+First step. Very first step.
